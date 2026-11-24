@@ -1,0 +1,478 @@
+[
+  {
+    "collection_id": "sunan-ibn-majah",
+    "hadith_number": 2492,
+    "in_book_number": 1,
+    "book_number": 17,
+    "book_title": {
+      "ar": "كتاب الشفعة",
+      "ms": "Kitab Syuf'ah (Hak Membeli Terlebih Dahulu)",
+      "en": "The Chapters on Pre-emption"
+    },
+    "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، وَمُحَمَّدُ بْنُ الصَّبَّاحِ، قَالاَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ كَانَتْ لَهُ نَخْلٌ أَوْ أَرْضٌ فَلاَ يَبِيعُهَا حَتَّى يَعْرِضَهَا عَلَى شَرِيكِهِ ‏\"‏ ‏.‏",
+    "gradings": [
+      {
+        "scholar": "Al-Albani",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Al-Albani"
+      },
+      {
+        "scholar": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Muhammad Fouad Abd al-Baqi"
+      },
+      {
+        "scholar": "Shuaib Al Arnaut",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Shuaib Al Arnaut"
+      },
+      {
+        "scholar": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Zubair Ali Zai"
+      }
+    ],
+    "translations": {
+      "ms": "Telah menceritakan kepada kami [Hisyam bin Ammar] dan [Muhammad bin Ash Shabbah] keduanya berkata; telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Abu Az Zubair] dari [Jabir] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa memiliki pohon kurma atau sebidang tanah, maka janganlah menjualnya hingga ia perlihatkan kepada sekutunya",
+      "id": "Telah menceritakan kepada kami [Hisyam bin Ammar] dan [Muhammad bin Ash Shabbah] keduanya berkata; telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Abu Az Zubair] dari [Jabir] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa memiliki pohon kurma atau sebidang tanah, maka janganlah menjualnya hingga ia perlihatkan kepada sekutunya",
+      "en": "It was narrated that Jabir said:“The Messenger of Allah (ﷺ) said: 'Whoever has a date-palm tree or land, should not sell it until he has offered it to his partner.' ”"
+    },
+    "numbering": {
+      "universal": 2492,
+      "abdul_baqi": 2492,
+      "in_book": 1,
+      "darussalam": 2492,
+      "alamiyah": 2492
+    }
+  },
+  {
+    "collection_id": "sunan-ibn-majah",
+    "hadith_number": 2493,
+    "in_book_number": 2,
+    "book_number": 17,
+    "book_title": {
+      "ar": "كتاب الشفعة",
+      "ms": "Kitab Syuf'ah (Hak Membeli Terlebih Dahulu)",
+      "en": "The Chapters on Pre-emption"
+    },
+    "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ سِنَانٍ، وَالْعَلاَءُ بْنُ سَالِمٍ، قَالاَ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا شَرِيكٌ، عَنْ سِمَاكٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ كَانَتْ لَهُ أَرْضٌ فَأَرَادَ بَيْعَهَا فَلْيَعْرِضْهَا عَلَى جَارِهِ ‏\"‏ ‏.‏",
+    "gradings": [
+      {
+        "scholar": "Al-Albani",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Al-Albani"
+      },
+      {
+        "scholar": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Muhammad Fouad Abd al-Baqi"
+      },
+      {
+        "scholar": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Shuaib Al Arnaut"
+      },
+      {
+        "scholar": "Zubair Ali Zai",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Zubair Ali Zai"
+      }
+    ],
+    "translations": {
+      "ms": "Telah menceritakan kepada kami [Ahmad bin Sinan] dan [Al 'Ala bin Salim] keduanya berkata; telah menceritakan kepada kami [Yazid bin Harun] berkata, telah memberitakan kepada kami [Syarik] dari [Simak] dari [Ikrimah] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa memiliki tanah kemudian ingin menjualnya, maka hendaklah ia tawarkan kepada tetangganya",
+      "id": "Telah menceritakan kepada kami [Ahmad bin Sinan] dan [Al 'Ala bin Salim] keduanya berkata; telah menceritakan kepada kami [Yazid bin Harun] berkata, telah memberitakan kepada kami [Syarik] dari [Simak] dari [Ikrimah] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa memiliki tanah kemudian ingin menjualnya, maka hendaklah ia tawarkan kepada tetangganya",
+      "en": "It was narrated from Ibn Abbas that the Prophet (ﷺ) said:“Whoever has land and wants to sell it, let him offer it to his neighbor.”"
+    },
+    "numbering": {
+      "universal": 2493,
+      "abdul_baqi": 2493,
+      "in_book": 2,
+      "darussalam": 2493,
+      "alamiyah": 2493
+    }
+  },
+  {
+    "collection_id": "sunan-ibn-majah",
+    "hadith_number": 2494,
+    "in_book_number": 3,
+    "book_number": 17,
+    "book_title": {
+      "ar": "كتاب الشفعة",
+      "ms": "Kitab Syuf'ah (Hak Membeli Terlebih Dahulu)",
+      "en": "The Chapters on Pre-emption"
+    },
+    "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا هُشَيْمٌ، أَنْبَأَنَا عَبْدُ الْمَلِكِ، عَنْ عَطَاءٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْجَارُ أَحَقُّ بِشُفْعَةِ جَارِهِ يَنْتَظِرُ بِهَا إِنْ كَانَ غَائِبًا إِذَا كَانَ طَرِيقُهُمَا وَاحِدًا ‏\"‏ ‏.‏",
+    "gradings": [
+      {
+        "scholar": "Al-Albani",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Al-Albani"
+      },
+      {
+        "scholar": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Muhammad Fouad Abd al-Baqi"
+      },
+      {
+        "scholar": "Shuaib Al Arnaut",
+        "grade": "Hasan",
+        "grade_ar": "حسن",
+        "notes": "Piawaian takhrij: Shuaib Al Arnaut"
+      },
+      {
+        "scholar": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan",
+        "grade_ar": "حسن",
+        "notes": "Piawaian takhrij: Zubair Ali Zai"
+      }
+    ],
+    "translations": {
+      "ms": "Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Husyaim] berkata, telah memberitakan kepada kami [Abdul Malik] dari ['Atha] dari [Jabir] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tetangga itu lebih berhak atas syuf'ah tetangganya (dari orang lain), jika ia tidak ada hendaklah ia menunggunya jika memang jalan keduanya hanya satu",
+      "id": "Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Husyaim] berkata, telah memberitakan kepada kami [Abdul Malik] dari ['Atha] dari [Jabir] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tetangga itu lebih berhak atas syuf'ah tetangganya (dari orang lain), jika ia tidak ada hendaklah ia menunggunya jika memang jalan keduanya hanya satu",
+      "en": "It was narrated from Jabir that the Messenger of Allah (ﷺ) said:“The neighbor has more right to preemption of his neighbor, so let him wait for him even if he is absent, if they share a path.”"
+    },
+    "numbering": {
+      "universal": 2494,
+      "abdul_baqi": 2494,
+      "in_book": 3,
+      "darussalam": 2494,
+      "alamiyah": 2494
+    }
+  },
+  {
+    "collection_id": "sunan-ibn-majah",
+    "hadith_number": 2495,
+    "in_book_number": 4,
+    "book_number": 17,
+    "book_title": {
+      "ar": "كتاب الشفعة",
+      "ms": "Kitab Syuf'ah (Hak Membeli Terlebih Dahulu)",
+      "en": "The Chapters on Pre-emption"
+    },
+    "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ مُحَمَّدٍ، قَالاَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ، عَنْ عَمْرِو بْنِ الشَّرِيدِ، عَنْ أَبِي رَافِعٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْجَارُ أَحَقُّ بِسَقَبِهِ ‏\"‏ ‏.‏",
+    "gradings": [
+      {
+        "scholar": "Al-Albani",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Al-Albani"
+      },
+      {
+        "scholar": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Muhammad Fouad Abd al-Baqi"
+      },
+      {
+        "scholar": "Shuaib Al Arnaut",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Shuaib Al Arnaut"
+      },
+      {
+        "scholar": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Zubair Ali Zai"
+      }
+    ],
+    "translations": {
+      "ms": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ali bin Muhammad] keduanya berkata; telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Ibrahim bin Maisarah] dari [Amru bin Ash Syarid] dari [Abu Rafi'] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tetangga itu lebih berhak karena kedekatannya",
+      "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ali bin Muhammad] keduanya berkata; telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Ibrahim bin Maisarah] dari [Amru bin Ash Syarid] dari [Abu Rafi'] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tetangga itu lebih berhak karena kedekatannya",
+      "en": "It was narrated from Abu Rafi' that the Prophet (ﷺ) said:“The neighbor has more right to property that is near.”"
+    },
+    "numbering": {
+      "universal": 2495,
+      "abdul_baqi": 2495,
+      "in_book": 4,
+      "darussalam": 2495,
+      "alamiyah": 2495
+    }
+  },
+  {
+    "collection_id": "sunan-ibn-majah",
+    "hadith_number": 2496,
+    "in_book_number": 5,
+    "book_number": 17,
+    "book_title": {
+      "ar": "كتاب الشفعة",
+      "ms": "Kitab Syuf'ah (Hak Membeli Terlebih Dahulu)",
+      "en": "The Chapters on Pre-emption"
+    },
+    "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ حُسَيْنٍ الْمُعَلِّمِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ عَمْرِو بْنِ الشَّرِيدِ بْنِ سُوَيْدٍ، عَنْ أَبِيهِ الشَّرِيدِ بْنِ سُوَيْدٍ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أَرْضٌ لَيْسَ فِيهَا لأَحَدٍ قِسْمٌ وَلاَ شِرْكٌ إِلاَّ الْجِوَارُ ‏.‏ قَالَ ‏ \"‏ الْجَارُ أَحَقُّ بِسَقَبِهِ ‏\"‏ ‏.‏",
+    "gradings": [
+      {
+        "scholar": "Al-Albani",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Al-Albani"
+      },
+      {
+        "scholar": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Muhammad Fouad Abd al-Baqi"
+      },
+      {
+        "scholar": "Shuaib Al Arnaut",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Shuaib Al Arnaut"
+      },
+      {
+        "scholar": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Zubair Ali Zai"
+      }
+    ],
+    "translations": {
+      "ms": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abu Usamah] dari [Husain Al Mu'allim] dari [Amru bin Syu'aib] dari [Amru bin Asy Syarid bin Suwaid] dari bapaknya [Asy Syarid bin Suwaid] ia berkata, \"Aku berkata, \"Wahai Rasulullah, sebidang tanah tidak ada pembagian dan persekutuan (dalam kepemilikannya) kecuali tetangga?\" beliau bersabda: \"Tetangga itu lebih berhak karena kedekatannya",
+      "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abu Usamah] dari [Husain Al Mu'allim] dari [Amru bin Syu'aib] dari [Amru bin Asy Syarid bin Suwaid] dari bapaknya [Asy Syarid bin Suwaid] ia berkata, \"Aku berkata, \"Wahai Rasulullah, sebidang tanah tidak ada pembagian dan persekutuan (dalam kepemilikannya) kecuali tetangga?\" beliau bersabda: \"Tetangga itu lebih berhak karena kedekatannya",
+      "en": "It was narrated that Sharid bin Suwaid said:“I said: 'O Messenger of Allah, (what do you think of) land owned by only one person but this land has neighbors?' He said: 'The neighbor has more right to property that is near.' ”"
+    },
+    "numbering": {
+      "universal": 2496,
+      "abdul_baqi": 2496,
+      "in_book": 5,
+      "darussalam": 2496,
+      "alamiyah": 2496
+    }
+  },
+  {
+    "collection_id": "sunan-ibn-majah",
+    "hadith_number": 2497,
+    "in_book_number": 6,
+    "book_number": 17,
+    "book_title": {
+      "ar": "كتاب الشفعة",
+      "ms": "Kitab Syuf'ah (Hak Membeli Terlebih Dahulu)",
+      "en": "The Chapters on Pre-emption"
+    },
+    "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، وَعَبْدُ الرَّحْمَنِ بْنُ عُمَرَ، قَالاَ حَدَّثَنَا أَبُو عَاصِمٍ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، وَأَبِي، سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِي هُرَيْرَةَ ـ رضي الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَضَى بِالشُّفْعَةِ فِيمَا لَمْ يُقْسَمْ فَإِذَا وَقَعَتِ الْحُدُودُ فَلاَ شُفْعَةَ ‏.‏",
+    "gradings": [
+      {
+        "scholar": "Al-Albani",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Al-Albani"
+      },
+      {
+        "scholar": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Muhammad Fouad Abd al-Baqi"
+      }
+    ],
+    "translations": {
+      "ms": "Telah menceritakan kepada kami [Muhammad bin Yahya] dan ['Abdurrahman bin Umar] keduanya berkata; telah menceritakan kepada kami [Abu 'Ashim] berkata, telah menceritakan kepada kami [Malik bin Anas] dari [Az Zuhri] dari [Sa'id Ibnul Musayyab] dan [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] berkata, \"Rasulullah shallallahu 'alaihi wasallam memberi putusan bahwa syuf'ah yang belum dibagi jika batas-batasnya telah jelas, maka tidak ada syuf'ah lagi.\" Dan telah menceritakan kepada kami [Muhammad bin Hammad Ath Thahrani] telah menceritakan kepada kami [Abu 'Ashim] dari [Malik] dari [Az Zuhri] dari [Sa'id bin Al Musayyab] dan [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas, Abu 'Ashim berkata; (riwayat dari) Sa'id bin Al Musayyab mursal, sementara (riwayat dari) Abu Salamah dari Abu Hurairah bersambung",
+      "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] dan ['Abdurrahman bin Umar] keduanya berkata; telah menceritakan kepada kami [Abu 'Ashim] berkata, telah menceritakan kepada kami [Malik bin Anas] dari [Az Zuhri] dari [Sa'id Ibnul Musayyab] dan [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] berkata, \"Rasulullah shallallahu 'alaihi wasallam memberi putusan bahwa syuf'ah yang belum dibagi jika batas-batasnya telah jelas, maka tidak ada syuf'ah lagi.\" Dan telah menceritakan kepada kami [Muhammad bin Hammad Ath Thahrani] telah menceritakan kepada kami [Abu 'Ashim] dari [Malik] dari [Az Zuhri] dari [Sa'id bin Al Musayyab] dan [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas, Abu 'Ashim berkata; (riwayat dari) Sa'id bin Al Musayyab mursal, sementara (riwayat dari) Abu Salamah dari Abu Hurairah bersambung",
+      "en": "It was narrated from Abu Hurairah that: the Messenger of Allah (ﷺ) ruled concerning preemption of land that has not been divided; if the boundaries have been set then there is no preemption."
+    },
+    "numbering": {
+      "universal": 2497,
+      "abdul_baqi": 2497,
+      "in_book": 6,
+      "darussalam": 2497,
+      "alamiyah": 2497
+    }
+  },
+  {
+    "collection_id": "sunan-ibn-majah",
+    "hadith_number": 2498,
+    "in_book_number": 7,
+    "book_number": 17,
+    "book_title": {
+      "ar": "كتاب الشفعة",
+      "ms": "Kitab Syuf'ah (Hak Membeli Terlebih Dahulu)",
+      "en": "The Chapters on Pre-emption"
+    },
+    "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْجَرَّاحِ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ، عَنْ عَمْرِو بْنِ الشَّرِيدِ، عَنْ أَبِي رَافِعٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الشَّرِيكُ أَحَقُّ بِسَقَبِهِ مَا كَانَ ‏\"‏ ‏.‏",
+    "gradings": [
+      {
+        "scholar": "Al-Albani",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Al-Albani"
+      },
+      {
+        "scholar": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Muhammad Fouad Abd al-Baqi"
+      },
+      {
+        "scholar": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Zubair Ali Zai"
+      }
+    ],
+    "translations": {
+      "ms": "Telah menceritakan kepada kami [Abdullah bin Jarrah] berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Ibrahim bin Maisarah] dari [Amru bin Asy Syarid] dari [Abu Rafi'] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sekutu itu lebih berhak karena kedekatannya, apapun keadaannya",
+      "id": "Telah menceritakan kepada kami [Abdullah bin Jarrah] berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Ibrahim bin Maisarah] dari [Amru bin Asy Syarid] dari [Abu Rafi'] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sekutu itu lebih berhak karena kedekatannya, apapun keadaannya",
+      "en": "It was narrated from Abu Rafi' that the Messenger of Allah (ﷺ) said:“The partner has more right to what is near him, so long as he is still a partner.”"
+    },
+    "numbering": {
+      "universal": 2498,
+      "abdul_baqi": 2498,
+      "in_book": 7,
+      "darussalam": 2498,
+      "alamiyah": 2498
+    }
+  },
+  {
+    "collection_id": "sunan-ibn-majah",
+    "hadith_number": 2499,
+    "in_book_number": 8,
+    "book_number": 17,
+    "book_title": {
+      "ar": "كتاب الشفعة",
+      "ms": "Kitab Syuf'ah (Hak Membeli Terlebih Dahulu)",
+      "en": "The Chapters on Pre-emption"
+    },
+    "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ إِنَّمَا جَعَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم الشُّفْعَةَ فِي كُلِّ مَا لَمْ يُقْسَمْ فَإِذَا وَقَعَتِ الْحُدُودُ وَصُرِّفَتِ الطُّرُقُ فَلاَ شُفْعَةَ ‏\"‏ ‏.‏",
+    "gradings": [
+      {
+        "scholar": "Al-Albani",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Al-Albani"
+      },
+      {
+        "scholar": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Muhammad Fouad Abd al-Baqi"
+      },
+      {
+        "scholar": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari",
+        "grade_ar": "صحيح",
+        "notes": "Piawaian takhrij: Zubair Ali Zai"
+      }
+    ],
+    "translations": {
+      "ms": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Abdurrazaq] dari [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Jabir bin Abdullah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam memberlakukan syuf'ah atas setiap sesuatu yang belum dibagi, jika batas-batas telah jelas dan jalan-jalan telah dibagi maka tidak ada lagi syuf'ah",
+      "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] berkata, telah menceritakan kepada kami [Abdurrazaq] dari [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Jabir bin Abdullah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam memberlakukan syuf'ah atas setiap sesuatu yang belum dibagi, jika batas-batas telah jelas dan jalan-jalan telah dibagi maka tidak ada lagi syuf'ah",
+      "en": "It was narrated from Jabir bin Abdullah that:the Messenger of Allah (ﷺ) ruled that preemption takes effect in all cases where land has not been divided. But if the boundaries have been set and the roads laid out, then there is no preemption.”"
+    },
+    "numbering": {
+      "universal": 2499,
+      "abdul_baqi": 2499,
+      "in_book": 8,
+      "darussalam": 2499,
+      "alamiyah": 2499
+    }
+  },
+  {
+    "collection_id": "sunan-ibn-majah",
+    "hadith_number": 2500,
+    "in_book_number": 9,
+    "book_number": 17,
+    "book_title": {
+      "ar": "كتاب الشفعة",
+      "ms": "Kitab Syuf'ah (Hak Membeli Terlebih Dahulu)",
+      "en": "The Chapters on Pre-emption"
+    },
+    "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ الْحَارِثِ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْبَيْلَمَانِيِّ، عَنْ أَبِيهِ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الشُّفْعَةُ كَحَلِّ الْعِقَالِ ‏\"‏ ‏.‏",
+    "gradings": [
+      {
+        "scholar": "Al-Albani",
+        "grade": "Very Daif",
+        "grade_ar": "ضعيف",
+        "notes": "Piawaian takhrij: Al-Albani"
+      },
+      {
+        "scholar": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Very Daif",
+        "grade_ar": "ضعيف",
+        "notes": "Piawaian takhrij: Muhammad Fouad Abd al-Baqi"
+      },
+      {
+        "scholar": "Shuaib Al Arnaut",
+        "grade": "Very Daif",
+        "grade_ar": "ضعيف",
+        "notes": "Piawaian takhrij: Shuaib Al Arnaut"
+      },
+      {
+        "scholar": "Zubair Ali Zai",
+        "grade": "Daif",
+        "grade_ar": "ضعيف",
+        "notes": "Piawaian takhrij: Zubair Ali Zai"
+      }
+    ],
+    "translations": {
+      "ms": "Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Muhammad bin Al Harits] dari [Muhammad bin 'Abdurrahman Al Bailamani] dari [Bapaknya] dari [Ibnu Umar] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Syuf'ah itu seperti melepas belenggu",
+      "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Muhammad bin Al Harits] dari [Muhammad bin 'Abdurrahman Al Bailamani] dari [Bapaknya] dari [Ibnu Umar] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Syuf'ah itu seperti melepas belenggu",
+      "en": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:“Preemption is like undoing the `Iqal.”"
+    },
+    "numbering": {
+      "universal": 2500,
+      "abdul_baqi": 2500,
+      "in_book": 9,
+      "darussalam": 2500,
+      "alamiyah": 2500
+    }
+  },
+  {
+    "collection_id": "sunan-ibn-majah",
+    "hadith_number": 2501,
+    "in_book_number": 10,
+    "book_number": 17,
+    "book_title": {
+      "ar": "كتاب الشفعة",
+      "ms": "Kitab Syuf'ah (Hak Membeli Terlebih Dahulu)",
+      "en": "The Chapters on Pre-emption"
+    },
+    "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ الْحَارِثِ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْبَيْلَمَانِيِّ، عَنْ أَبِيهِ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ شُفْعَةَ لِشَرِيكٍ عَلَى شَرِيكٍ إِذَا سَبَقَهُ بِالشِّرَاءِ وَلاَ لِصَغِيرٍ وَلاَ لِغَائِبٍ ‏\"‏ ‏.‏",
+    "gradings": [
+      {
+        "scholar": "Al-Albani",
+        "grade": "Very Daif",
+        "grade_ar": "ضعيف",
+        "notes": "Piawaian takhrij: Al-Albani"
+      },
+      {
+        "scholar": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Very Daif",
+        "grade_ar": "ضعيف",
+        "notes": "Piawaian takhrij: Muhammad Fouad Abd al-Baqi"
+      },
+      {
+        "scholar": "Shuaib Al Arnaut",
+        "grade": "Very Daif",
+        "grade_ar": "ضعيف",
+        "notes": "Piawaian takhrij: Shuaib Al Arnaut"
+      },
+      {
+        "scholar": "Zubair Ali Zai",
+        "grade": "Daif",
+        "grade_ar": "ضعيف",
+        "notes": "Piawaian takhrij: Zubair Ali Zai"
+      }
+    ],
+    "translations": {
+      "ms": "Telah menceritakan kepada kami [Suwaid bin Sa'id] ia berkata; telah menceritakan kepada kami [Muhammad bin Al Harits] dari [Muhammad bin 'Abdurrahman Al Bailamani] dari [Bapaknya] [Ibnu Umar] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada syuf'ah bagi sekutu atas sekutunya bila didahului oleh jual beli, tidak pula bagi anak kecil dan orang yang tidak hadir",
+      "id": "Telah menceritakan kepada kami [Suwaid bin Sa'id] ia berkata; telah menceritakan kepada kami [Muhammad bin Al Harits] dari [Muhammad bin 'Abdurrahman Al Bailamani] dari [Bapaknya] [Ibnu Umar] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada syuf'ah bagi sekutu atas sekutunya bila didahului oleh jual beli, tidak pula bagi anak kecil dan orang yang tidak hadir",
+      "en": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:“There is no preemption for a partner when his co-partner has beaten him to it (in another deal before), not for a minor nor one who is absent.”"
+    },
+    "numbering": {
+      "universal": 2501,
+      "abdul_baqi": 2501,
+      "in_book": 10,
+      "darussalam": 2501,
+      "alamiyah": 2501
+    }
+  }
+]

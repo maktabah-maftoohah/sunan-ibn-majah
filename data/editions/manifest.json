@@ -1,0 +1,51 @@
+{
+  "collection": "sunan-ibn-majah",
+  "title": "Sunan Ibn Majah (سنن ابن ماجه)",
+  "author": "Imam Muhammad ibn Yazid al-Qazwini Ibn Majah (209–273 AH)",
+  "default_numbering": "abdul_baqi",
+  "total_hadiths": 4343,
+  "total_books": 38,
+  "updated_at": "2026-11-24T14:08:15Z",
+  "editions": [
+    {
+      "id": "ara-ibnmajah",
+      "name": "Arabic (Vocalized with Tashkeel)",
+      "language": "ar",
+      "description": "Standard vocalized Arabic text of Sunan Ibn Majah with full tashkeel and scholarly gradings (Al-Albani, Abd al-Baqi, Arnaut, Zubair Ali Zai).",
+      "filename": "ara-ibnmajah.json",
+      "hadith_count": 4343
+    },
+    {
+      "id": "ara-ibnmajah1",
+      "name": "Arabic (Unvocalized Plain)",
+      "language": "ar-plain",
+      "description": "Normalized Arabic text without diacritics for fast fulltext search.",
+      "filename": "ara-ibnmajah1.json",
+      "hadith_count": 4343
+    },
+    {
+      "id": "eng-ibnmajah",
+      "name": "English (Darussalam Translation)",
+      "language": "en",
+      "description": "Complete English translation of Sunan Ibn Majah published by Darussalam (5 Volumes).",
+      "filename": "eng-ibnmajah.json",
+      "hadith_count": 4343
+    },
+    {
+      "id": "ind-ibnmajah",
+      "name": "Nusantara / Indonesian (Terjemahan Lengkap)",
+      "language": "ms-id",
+      "description": "Complete Nusantara translation of Sunan Ibn Majah hadiths.",
+      "filename": "ind-ibnmajah.json",
+      "hadith_count": 4343
+    },
+    {
+      "id": "uthumany-ibnmajah",
+      "name": "Uthumany Comprehensive Corpus",
+      "language": "ar-en",
+      "description": "Comprehensive reference corpus with chapter and in-book mapping.",
+      "filename": "uthumany-ibnmajah.json",
+      "hadith_count": 4345
+    }
+  ]
+}

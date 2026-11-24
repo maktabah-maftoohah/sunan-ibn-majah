@@ -1,0 +1,420 @@
+[
+  {
+    "book_number": 0,
+    "book_title": {
+      "ar": "كتاب المقدمة (فضل اتباع سنة رسول الله صلى الله عليه وسلم)",
+      "ms": "Kitab Mukadimah: Keutamaan Mengikut Sunnah Rasulullah SAW",
+      "en": "The Book of the Sunnah (Introduction)"
+    },
+    "hadith_start": 1,
+    "hadith_end": 266,
+    "hadith_count": 266
+  },
+  {
+    "book_number": 1,
+    "book_title": {
+      "ar": "كتاب الطهارة وسننها",
+      "ms": "Kitab Bersuci dan Sunnah-sunnahnya (At-Taharah)",
+      "en": "The Book of Purification and its Sunnah"
+    },
+    "hadith_start": 267,
+    "hadith_end": 666,
+    "hadith_count": 400
+  },
+  {
+    "book_number": 2,
+    "book_title": {
+      "ar": "كتاب الصلاة",
+      "ms": "Kitab Solat",
+      "en": "The Book of the Prayer"
+    },
+    "hadith_start": 667,
+    "hadith_end": 705,
+    "hadith_count": 39
+  },
+  {
+    "book_number": 3,
+    "book_title": {
+      "ar": "كتاب الأذان والسنة فيها",
+      "ms": "Kitab Azan dan Sunnah-sunnahnya",
+      "en": "The Book of the Adhan and the Sunnah Regarding It"
+    },
+    "hadith_start": 706,
+    "hadith_end": 734,
+    "hadith_count": 29
+  },
+  {
+    "book_number": 4,
+    "book_title": {
+      "ar": "كتاب المساجد والجماعات",
+      "ms": "Kitab Masjid dan Solat Berjemaah",
+      "en": "The Book On The Mosques And The Congregations"
+    },
+    "hadith_start": 735,
+    "hadith_end": 802,
+    "hadith_count": 68
+  },
+  {
+    "book_number": 5,
+    "book_title": {
+      "ar": "كتاب إقامة الصلاة والسنة فيها",
+      "ms": "Kitab Mendirikan Solat dan Sunnah-sunnahnya",
+      "en": "Establishing the Prayer and the Sunnah Regarding Them"
+    },
+    "hadith_start": 803,
+    "hadith_end": 1432,
+    "hadith_count": 630
+  },
+  {
+    "book_number": 6,
+    "book_title": {
+      "ar": "كتاب الجنائز",
+      "ms": "Kitab Pengurusan Jenazah",
+      "en": "Chapters Regarding Funerals"
+    },
+    "hadith_start": 1433,
+    "hadith_end": 1637,
+    "hadith_count": 205
+  },
+  {
+    "book_number": 7,
+    "book_title": {
+      "ar": "كتاب الصيام",
+      "ms": "Kitab Puasa",
+      "en": "The Book of Fasting"
+    },
+    "hadith_start": 1638,
+    "hadith_end": 1782,
+    "hadith_count": 145
+  },
+  {
+    "book_number": 8,
+    "book_title": {
+      "ar": "كتاب الزكاة",
+      "ms": "Kitab Zakat",
+      "en": "The Chapters Regarding Zakat"
+    },
+    "hadith_start": 1783,
+    "hadith_end": 1844,
+    "hadith_count": 62
+  },
+  {
+    "book_number": 9,
+    "book_title": {
+      "ar": "كتاب النكاح",
+      "ms": "Kitab Pernikahan",
+      "en": "The Chapters on Marriage"
+    },
+    "hadith_start": 1845,
+    "hadith_end": 2015,
+    "hadith_count": 171
+  },
+  {
+    "book_number": 10,
+    "book_title": {
+      "ar": "كتاب الطلاق",
+      "ms": "Kitab Talak dan Perceraian",
+      "en": "The Chapters on Divorce"
+    },
+    "hadith_start": 2016,
+    "hadith_end": 2089,
+    "hadith_count": 74
+  },
+  {
+    "book_number": 11,
+    "book_title": {
+      "ar": "كتاب الكفارات",
+      "ms": "Kitab Kafarah",
+      "en": "The Chapters on Expiation"
+    },
+    "hadith_start": 2090,
+    "hadith_end": 2136,
+    "hadith_count": 47
+  },
+  {
+    "book_number": 12,
+    "book_title": {
+      "ar": "كتاب التجارات",
+      "ms": "Kitab Perdagangan dan Jual Beli",
+      "en": "The Chapters on Business Transactions"
+    },
+    "hadith_start": 2137,
+    "hadith_end": 2307,
+    "hadith_count": 171
+  },
+  {
+    "book_number": 13,
+    "book_title": {
+      "ar": "كتاب الأحكام",
+      "ms": "Kitab Hukum-Hakam dan Kehakiman",
+      "en": "The Chapters on Rulings"
+    },
+    "hadith_start": 2308,
+    "hadith_end": 2374,
+    "hadith_count": 67
+  },
+  {
+    "book_number": 14,
+    "book_title": {
+      "ar": "كتاب الهبات",
+      "ms": "Kitab Hibah dan Pemberian",
+      "en": "The Chapters on Gifts"
+    },
+    "hadith_start": 2375,
+    "hadith_end": 2389,
+    "hadith_count": 15
+  },
+  {
+    "book_number": 15,
+    "book_title": {
+      "ar": "كتاب الصدقات",
+      "ms": "Kitab Sedekah dan Derma",
+      "en": "The Chapters on Charity"
+    },
+    "hadith_start": 2390,
+    "hadith_end": 2435,
+    "hadith_count": 46
+  },
+  {
+    "book_number": 16,
+    "book_title": {
+      "ar": "كتاب الرهن",
+      "ms": "Kitab Gadaian (Ar-Rahn)",
+      "en": "The Chapters on Pawning"
+    },
+    "hadith_start": 2436,
+    "hadith_end": 2491,
+    "hadith_count": 56
+  },
+  {
+    "book_number": 17,
+    "book_title": {
+      "ar": "كتاب الشفعة",
+      "ms": "Kitab Syuf'ah (Hak Membeli Terlebih Dahulu)",
+      "en": "The Chapters on Pre-emption"
+    },
+    "hadith_start": 2492,
+    "hadith_end": 2501,
+    "hadith_count": 10
+  },
+  {
+    "book_number": 18,
+    "book_title": {
+      "ar": "كتاب اللقطة",
+      "ms": "Kitab Luqatah (Barang Tercicir / Dijumpai)",
+      "en": "The Chapters on Lost Property"
+    },
+    "hadith_start": 2502,
+    "hadith_end": 2511,
+    "hadith_count": 10
+  },
+  {
+    "book_number": 19,
+    "book_title": {
+      "ar": "كتاب العتق",
+      "ms": "Kitab Pembebasan Hamba",
+      "en": "The Chapters on Manumission (of Slaves)"
+    },
+    "hadith_start": 2512,
+    "hadith_end": 2532,
+    "hadith_count": 21
+  },
+  {
+    "book_number": 20,
+    "book_title": {
+      "ar": "كتاب الحدود",
+      "ms": "Kitab Hukuman Had (Hudud)",
+      "en": "The Chapters on Legal Punishments"
+    },
+    "hadith_start": 2533,
+    "hadith_end": 2614,
+    "hadith_count": 82
+  },
+  {
+    "book_number": 21,
+    "book_title": {
+      "ar": "كتاب الديات",
+      "ms": "Kitab Diyat (Pampasan Darah dan Cedera)",
+      "en": "The Chapters on Blood Money"
+    },
+    "hadith_start": 2615,
+    "hadith_end": 2694,
+    "hadith_count": 80
+  },
+  {
+    "book_number": 22,
+    "book_title": {
+      "ar": "كتاب الوصايا",
+      "ms": "Kitab Wasiat",
+      "en": "The Chapters on Wills"
+    },
+    "hadith_start": 2695,
+    "hadith_end": 2718,
+    "hadith_count": 24
+  },
+  {
+    "book_number": 23,
+    "book_title": {
+      "ar": "كتاب الفرائض",
+      "ms": "Kitab Faraid (Pembahagian Harta Pusaka)",
+      "en": "Chapters on Shares of Inheritance"
+    },
+    "hadith_start": 2719,
+    "hadith_end": 2752,
+    "hadith_count": 34
+  },
+  {
+    "book_number": 24,
+    "book_title": {
+      "ar": "كتاب الجهاد",
+      "ms": "Kitab Jihad di Jalan Allah",
+      "en": "The Chapters on Jihad"
+    },
+    "hadith_start": 2753,
+    "hadith_end": 2881,
+    "hadith_count": 129
+  },
+  {
+    "book_number": 25,
+    "book_title": {
+      "ar": "كتاب المناسك",
+      "ms": "Kitab Manasik Haji dan Umrah",
+      "en": "Chapters on Hajj Rituals"
+    },
+    "hadith_start": 2882,
+    "hadith_end": 3119,
+    "hadith_count": 238
+  },
+  {
+    "book_number": 26,
+    "book_title": {
+      "ar": "كتاب الأضاحي",
+      "ms": "Kitab Ibadah Korban (Adahi)",
+      "en": "Chapters on Sacrifices"
+    },
+    "hadith_start": 3120,
+    "hadith_end": 3161,
+    "hadith_count": 42
+  },
+  {
+    "book_number": 27,
+    "book_title": {
+      "ar": "كتاب الذبائح",
+      "ms": "Kitab Sembelihan Haiwan",
+      "en": "Chapters on Slaughtering"
+    },
+    "hadith_start": 3162,
+    "hadith_end": 3199,
+    "hadith_count": 38
+  },
+  {
+    "book_number": 28,
+    "book_title": {
+      "ar": "كتاب الصيد",
+      "ms": "Kitab Perburuan",
+      "en": "Chapters on Hunting"
+    },
+    "hadith_start": 3200,
+    "hadith_end": 3250,
+    "hadith_count": 51
+  },
+  {
+    "book_number": 29,
+    "book_title": {
+      "ar": "كتاب الأطعمة",
+      "ms": "Kitab Makanan dan Jamuan",
+      "en": "Chapters on Food"
+    },
+    "hadith_start": 3251,
+    "hadith_end": 3370,
+    "hadith_count": 120
+  },
+  {
+    "book_number": 30,
+    "book_title": {
+      "ar": "كتاب الأشربة",
+      "ms": "Kitab Minuman",
+      "en": "Chapters on Drinks"
+    },
+    "hadith_start": 3371,
+    "hadith_end": 3435,
+    "hadith_count": 65
+  },
+  {
+    "book_number": 31,
+    "book_title": {
+      "ar": "كتاب الطب",
+      "ms": "Kitab Perubatan dan Rawatan",
+      "en": "Chapters on Medicine"
+    },
+    "hadith_start": 3436,
+    "hadith_end": 3549,
+    "hadith_count": 114
+  },
+  {
+    "book_number": 32,
+    "book_title": {
+      "ar": "كتاب اللباس",
+      "ms": "Kitab Pakaian dan Dandanan",
+      "en": "Chapters on Dress"
+    },
+    "hadith_start": 3550,
+    "hadith_end": 3656,
+    "hadith_count": 107
+  },
+  {
+    "book_number": 33,
+    "book_title": {
+      "ar": "كتاب الأدب",
+      "ms": "Kitab Adab dan Akhlak Mulia",
+      "en": "The Book of Etiquette"
+    },
+    "hadith_start": 3657,
+    "hadith_end": 3826,
+    "hadith_count": 170
+  },
+  {
+    "book_number": 34,
+    "book_title": {
+      "ar": "كتاب الدعاء",
+      "ms": "Kitab Doa dan Permohonan",
+      "en": "The Book of Supplication"
+    },
+    "hadith_start": 3827,
+    "hadith_end": 3892,
+    "hadith_count": 66
+  },
+  {
+    "book_number": 35,
+    "book_title": {
+      "ar": "كتاب تعبير الرؤيا",
+      "ms": "Kitab Tafsir Mimpi (Ta'bir ar-Ru'ya)",
+      "en": "Interpretation of Dreams"
+    },
+    "hadith_start": 3893,
+    "hadith_end": 3926,
+    "hadith_count": 34
+  },
+  {
+    "book_number": 36,
+    "book_title": {
+      "ar": "كتاب الفتن",
+      "ms": "Kitab Fitnah-Fitnah Akhir Zaman",
+      "en": "The Book of Tribulations"
+    },
+    "hadith_start": 3927,
+    "hadith_end": 4099,
+    "hadith_count": 175
+  },
+  {
+    "book_number": 37,
+    "book_title": {
+      "ar": "كتاب الزهد",
+      "ms": "Kitab Zuhud dan Pelembut Hati",
+      "en": "The Book of Zuhd (Asceticism)"
+    },
+    "hadith_start": 4100,
+    "hadith_end": 4341,
+    "hadith_count": 242
+  }
+]

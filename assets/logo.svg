@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <defs>
+    <linearGradient id="logoCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064e3b" />
+      <stop offset="50%" stop-color="#043829" />
+      <stop offset="100%" stop-color="#021c14" />
+    </linearGradient>
+
+    <linearGradient id="goldHdr" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef3c7" />
+      <stop offset="40%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@700&amp;family=Inter:wght@400;600;700;800&amp;display=swap');
+      .ar-hdr { font-family: 'Amiri', 'Traditional Arabic', serif; font-weight: 700; }
+      .latin-title { font-family: 'Inter', -apple-system, sans-serif; font-weight: 800; }
+      .latin-sub { font-family: 'Inter', -apple-system, sans-serif; font-weight: 600; }
+    </style>
+  </defs>
+
+  <rect width="800" height="200" rx="28" fill="url(#logoCardBg)" />
+  <rect width="794" height="194" x="3" y="3" rx="25" fill="none" stroke="url(#goldHdr)" stroke-width="1.5" stroke-opacity="0.4" />
+
+  <g transform="translate(30, 25)">
+    <!-- Book Mini Emblem -->
+    <rect width="150" height="150" rx="32" fill="#043829" stroke="url(#goldHdr)" stroke-width="2" />
+    <circle cx="75" cy="75" r="55" fill="#10b981" fill-opacity="0.15" />
+    <text x="75" y="90" text-anchor="middle" class="ar-hdr" font-size="52" fill="url(#goldHdr)">ماجه</text>
+  </g>
+
+  <g transform="translate(210, 50)">
+    <text x="0" y="30" class="latin-title" font-size="34" fill="#ffffff" letter-spacing="-0.5">SUNAN IBN MAJAH</text>
+    <text x="0" y="62" class="ar-hdr" font-size="30" fill="url(#goldHdr)">سُنَنُ ابْنِ مَاجَه — الإمام محمد بن يزيد القزويني</text>
+    <text x="0" y="95" class="latin-sub" font-size="14.5" fill="#34d399" letter-spacing="1.5">MAKTABAH MAFTOOHAH &bull; KUTUB AS-SITTAH (38 KITAB &bull; 4,343 HADIS)</text>
+  </g>
+</svg>

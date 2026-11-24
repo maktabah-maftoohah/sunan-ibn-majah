@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
+  <defs>
+    <linearGradient id="sbBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#022c22" />
+      <stop offset="40%" stop-color="#064e3b" />
+      <stop offset="80%" stop-color="#043829" />
+      <stop offset="100%" stop-color="#011812" />
+    </linearGradient>
+
+    <linearGradient id="sbGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef3c7" />
+      <stop offset="25%" stop-color="#fde68a" />
+      <stop offset="50%" stop-color="#f59e0b" />
+      <stop offset="75%" stop-color="#d97706" />
+      <stop offset="100%" stop-color="#92400e" />
+    </linearGradient>
+
+    <radialGradient id="sbAura" cx="35%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.3" />
+      <stop offset="70%" stop-color="#064e3b" stop-opacity="0.05" />
+      <stop offset="100%" stop-color="#022c22" stop-opacity="0" />
+    </radialGradient>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@700&amp;family=Inter:wght@400;500;600;700;800;900&amp;display=swap');
+      .sb-ar-large { font-family: 'Amiri', 'Traditional Arabic', serif; font-weight: 700; }
+      .sb-latin-hero { font-family: 'Inter', -apple-system, sans-serif; font-weight: 900; }
+      .sb-latin-sub { font-family: 'Inter', -apple-system, sans-serif; font-weight: 600; }
+      .sb-pill { font-family: 'Inter', -apple-system, sans-serif; font-weight: 700; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#sbBg)" />
+  <circle cx="450" cy="320" r="480" fill="url(#sbAura)" />
+
+  <!-- Outer Frame -->
+  <rect width="1248" height="608" x="16" y="16" rx="28" fill="none" stroke="url(#sbGold)" stroke-width="2.5" stroke-opacity="0.7" />
+  <rect width="1224" height="584" x="28" y="28" rx="20" fill="none" stroke="#34d399" stroke-width="1" stroke-opacity="0.3" />
+
+  <!-- Left: Main Logo Emblem -->
+  <g transform="translate(100, 140)">
+    <rect width="360" height="360" rx="80" fill="#043829" stroke="url(#sbGold)" stroke-width="3" />
+    <circle cx="180" cy="180" r="130" fill="#10b981" fill-opacity="0.15" />
+    <text x="180" y="210" text-anchor="middle" class="sb-ar-large" font-size="110" fill="url(#sbGold)">ماجه</text>
+  </g>
+
+  <!-- Right: Titles & Badges -->
+  <g transform="translate(530, 160)">
+    <!-- Heritage Badge -->
+    <g transform="translate(0, 0)">
+      <rect width="360" height="36" rx="18" fill="#047857" fill-opacity="0.5" stroke="#34d399" stroke-width="1.2" />
+      <text x="180" y="23" text-anchor="middle" class="sb-pill" font-size="13" fill="#6ee7b7" letter-spacing="2">🌙 ZERO-BUILD ISLAMIC HERITAGE</text>
+    </g>
+
+    <text x="0" y="100" class="sb-latin-hero" font-size="56" fill="#ffffff" letter-spacing="-1">SUNAN IBN MAJAH</text>
+    <text x="0" y="170" class="sb-ar-large" font-size="52" fill="url(#sbGold)">سُنَنُ ابْنِ مَاجَه (المُصَنَّف)</text>
+
+    <text x="0" y="230" class="sb-latin-sub" font-size="20" fill="#cbd5e1" line-height="1.5">
+      Koleksi Hadis Lengkap (38 Kitab &bull; 4,343 Hadis) &bull; Takhrij Ulama
+    </text>
+    <text x="0" y="265" class="sb-latin-sub" font-size="18" fill="#34d399">
+      Piawaian Penomoran: Muhammad Fu'ad 'Abd al-Baqi (Default Sejagat)
+    </text>
+
+    <!-- Stat Pills -->
+    <g transform="translate(0, 310)">
+      <rect width="160" height="42" rx="12" fill="#064e3b" stroke="url(#sbGold)" stroke-width="1" />
+      <text x="80" y="27" text-anchor="middle" class="sb-pill" font-size="14.5" fill="#fde68a">38 Kitab</text>
+
+      <rect x="180" width="180" height="42" rx="12" fill="#064e3b" stroke="url(#sbGold)" stroke-width="1" />
+      <text x="270" y="27" text-anchor="middle" class="sb-pill" font-size="14.5" fill="#fde68a">4,343 Hadis</text>
+
+      <rect x="380" width="220" height="42" rx="12" fill="#064e3b" stroke="#34d399" stroke-width="1" />
+      <text x="490" y="27" text-anchor="middle" class="sb-pill" font-size="14" fill="#34d399">Kutub as-Sittah</text>
+    </g>
+  </g>
+</svg>

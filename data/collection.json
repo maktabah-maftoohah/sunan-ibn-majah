@@ -1,7 +1,14 @@
 {
-  "collection": "sunan-ibn-majah",
-  "title": "Sunan Ibn Majah",
+  "id": "sunan-ibn-majah",
+  "title": "Maktabah Maftoohah — Sunan Ibn Majah",
   "title_ar": "سنن ابن ماجه",
-  "seeded": true,
-  "items": []
+  "author": "Imam Abu 'Abdillah Muhammad ibn Yazid al-Qazwini Ibn Majah (209–273 AH)",
+  "author_ar": "الإمام الحافظ أبو عبد الله محمد بن يزيد القزويني ابن ماجه",
+  "total_books": 38,
+  "total_hadiths": 4343,
+  "default_numbering": "abdul_baqi",
+  "primary_edition": "Tahqiq Muhammad Fu'ad 'Abd al-Baqi (Dar Ihya' al-Kutub al-'Arabiyyah / Darussalam)",
+  "description": "Zero-build Islamic reader for Sunan Ibn Majah completing the canonical Kutub as-Sittah collection with full multi-numbering support ('Abd al-Baqi default).",
+  "updated_at": "2026-11-24T14:08:16Z",
+  "canonical_url": "https://maktabah-maftoohah.github.io/sunan-ibn-majah/"
 }
